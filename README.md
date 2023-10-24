@@ -4,4 +4,6 @@
 
 - 📫 How to reach me **andrewsmith.independent@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-smith-93&layout=compact&langs_count=20)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-smith-93&layout=compact&langs_count=30" alt="Top Langs">
+</div>
