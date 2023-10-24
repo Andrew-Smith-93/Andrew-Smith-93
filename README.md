@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Andrew Smith</h1>
-<h3 align="center">A passionate Computer Scientist and Software Engineer from Mississippi, USA</h3>
-
-- 💬 Ask me about **Video Game Development, Application Development, and/or Web Development**
 
 - 📫 How to reach me **andrewsmith.independent@gmail.com**
 
