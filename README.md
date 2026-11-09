@@ -1,43 +1,45 @@
 # Andrew Smith
 
-**Independent Software Studio · Mississippi & Remote**  
-[andrewsmith.app](https://andrewsmith.app) · [andrewsmith.independent@gmail.com](mailto:andrewsmith.independent@gmail.com)
+Independent software builder in Mississippi, working remotely.
 
-> *Build the missing piece. Move the work forward.*
+[Website](https://andrewsmith.app) · [Email](mailto:andrewsmith.independent@gmail.com)
 
----
+**Build the missing piece. Move the work forward.**
 
-### About
+I build web applications, business websites, internal tools, and Linux desktop software. I care about useful interfaces, predictable behavior, and taking a project from an idea to a tested release.
 
-I design and build custom web applications, commercial websites, internal tools, and desktop software—from product direction and interface craft to robust architecture and operable handoffs.
+## Selected public work
 
-- **Direct Collaboration**: Working directly with the person shaping the product, interface, and code.
-- **Source Stays Yours**: Clean, unencumbered handoffs with automated checks, tests, and documentation.
-- **Evidence-Backed**: Clear distinction between what is built, tested, observed, and deployed.
+### [Tessera](https://github.com/Andrew-Smith-93/Tessera)
 
----
+Dynamic tiling for KDE Plasma 6, built as a KWin script with native System Settings integration. It supports multi-monitor layouts, visual snap zones, keyboard controls, and configurable rules for floating windows and games.
 
-### Selected Public Work
+[Latest release](https://github.com/Andrew-Smith-93/Tessera/releases/latest) · [KDE Store](https://store.kde.org/p/2375512/)
 
-- **[Codeward](https://github.com/Andrew-Smith-93/codeward)** — A TypeScript CLI and GitHub Action that coordinates multi-agent security, logic, and architecture reviews, organizing findings into actionable terminal, PR, SARIF, HTML, and JSON reports.
-- **[Tessera](https://github.com/Andrew-Smith-93/Tessera)** — Dynamic tiling window manager script and native visual settings interface for KDE Plasma 6 (KWin + QML), featuring predictable snap zones and multi-screen workspace control.
-- **[Cozy Solutions](https://cozysolutions.org)** — Commercial Next.js website for a plumbing and HVAC provider, designed around clear service journeys, content migration, and fast inquiry conversion.
+### [Codeward](https://github.com/Andrew-Smith-93/codeward)
 
----
+A TypeScript CLI and GitHub Action for multi-agent code review. It reviews Git diffs for security, logic, reliability, and architecture concerns, then organizes findings into terminal and structured reports.
 
-### Technical Capabilities
+### [Cozy Solutions](https://cozysolutions.org)
 
-- **Languages & Runtimes**: TypeScript, JavaScript (Node.js / Bun), Python, Rust, Go, Bash
-- **Web & Frameworks**: React, Next.js, Astro, Tailwind CSS, HTML5 / CSS3
-- **Desktop & Linux Systems**: KDE Plasma 6, KWin Scripting, QML, Linux system administration & automation
-- **Architecture & Tooling**: Local-first systems, Multi-agent workflows, REST & GraphQL APIs, SQLite / PostgreSQL, CI/CD
+A commercial Next.js website for a plumbing and HVAC business, focused on clear service information and straightforward inquiry flows.
 
----
+## What I work with
 
-### Contact & Collaboration
+- **Web:** TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS
+- **Desktop and systems:** Linux, KDE Plasma, KWin, QML, shell tooling
+- **Application infrastructure:** Node.js, Python, SQLite, PostgreSQL, APIs, GitHub Actions
+- **Development workflows:** local-first tools, AI-assisted development, multi-agent review, automated tests, and release verification
 
-Looking to build a new product, resolve a bottleneck in an existing system, or take software through its next release?
+## How I work
 
-- **Website**: [andrewsmith.app](https://andrewsmith.app)
-- **Email**: [andrewsmith.independent@gmail.com](mailto:andrewsmith.independent@gmail.com)
-- **GitHub**: [@Andrew-Smith-93](https://github.com/Andrew-Smith-93)
+I work directly on the product, interface, and implementation. I use AI-assisted tools alongside source review and testing, and keep a clear distinction between what is built, tested, and deployed.
+
+I value readable code, documented decisions, reproducible checks, and handoffs that someone else can actually use.
+
+## Get in touch
+
+For a website, application, internal tool, or help moving an existing project forward:
+
+- [andrewsmith.app](https://andrewsmith.app)
+- [andrewsmith.independent@gmail.com](mailto:andrewsmith.independent@gmail.com)
