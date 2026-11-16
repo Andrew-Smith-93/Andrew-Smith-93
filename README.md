@@ -27,3 +27,9 @@ The source for these in-progress projects is private. My [portfolio](https://and
 I like the details that make software dependable: a window staying on the right monitor, an original CSV remaining intact, or an exported document matching the version someone reviewed.
 
 The projects here use TypeScript and JavaScript, Rust, Godot/GDScript, Linux/KWin, and x86-64 assembly.
+
+## Languages in my public repositories
+
+[![Language percentages across my public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Andrew-Smith-93&layout=compact&langs_count=8&theme=transparent&card_width=400&disable_animations=true)](https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/)
+
+These percentages reflect code size in my public, non-forked repositories, not skill level or time spent. Private projects and contributions to other owners' repositories aren't included.
