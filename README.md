@@ -1,49 +1,67 @@
-# Hi, I'm Andrew
+# Andrew Smith
 
-I'm an independent developer in Mississippi. I build desktop tools, web applications, and games. I own [Domillio](https://domillio.org).
+**Domillio owner · software developer · Linux enthusiast**
 
-I use AI tools as part of development, alongside code review, testing, and hands-on debugging. My projects are at different stages: some have public releases, some are browser demos, and others are still taking shape.
+I own [Domillio](https://domillio.org). I'm an independent developer in Mississippi, working across web applications, practical Linux tooling, desktop software, and games.
 
-[My website](https://andrewsmith.app) · [Email](mailto:andrewsmith.independent@gmail.com)
+I'm interested in both sides of software: the systems underneath it and what it feels like to use. Rust, persistent state, window-management behavior, and low-level interfaces sit alongside web UX, clear workflows, and useful exports.
 
-## A few projects
+## What I'm making
 
-- **[Tessera](https://github.com/Andrew-Smith-93/Tessera)** is a tiling script for KDE Plasma 6. It adds keyboard controls, snap zones, and multi-monitor layouts inside KWin. The [releases](https://github.com/Andrew-Smith-93/Tessera/releases) include verification notes and known limits.
-- **[Codeward](https://github.com/Andrew-Smith-93/codeward)** is a collaborative TypeScript project for AI-assisted code review, with a CLI and GitHub Action.
-- **[Browser tools](https://andrewsmith.app/work/)** include Fieldwork for contractor jobs and estimates, Table for preparing CSV data, and Outline for writing and revisions. These are local browser apps with exports. They don't provide cloud sync, team accounts, or real payment processing. The collection also includes prototypes and visual experiments.
-- **[Cozy Solutions](https://www.cozysolutions.org/)** is a plumbing and HVAC website I worked on.
+### Domillio
+**Shopify-focused document workflows**
 
-## What I'm working on
+My work on Domillio centers on tax-exemption certificates, product-safety documents, and disclosure workflows. I care about making complicated records easier to collect, review, and understand.
 
-- **Bridge:** a local desktop console for agent activity, messages, and worktree review. The native preview includes x86-64 assembly work and is still in development.
-- **Domillio:** Shopify-focused tools for tax-exemption certificates, product-safety documents, and disclosure workflows. These are still in development or review.
-- **Dies Irae and Lanternbound:** two Godot game projects. Dies Irae is an action roguelike; Lanternbound is a companion-card roguelike prototype. Both are still in development.
-- **Anvil:** a pre-release Rust job queue for Linux, using SQLite for persistent jobs. It is built for a single machine.
+The [public browser demos](https://domillio.org/demos) show sample workflows. They aren't real merchant approvals or proof of production readiness; the underlying products are still in development or review.
 
-The source for these in-progress projects is private. My [portfolio](https://andrewsmith.app/work/) has more detail on the work I can share.
+### [Tessera](https://github.com/Andrew-Smith-93/Tessera)
+**Keyboard-driven tiling inside KDE Plasma 6**
 
-## What I care about
+Tessera runs inside KWin rather than replacing the desktop. It combines deterministic snap-region layouts, keyboard controls, and multi-monitor behavior. The details matter here: keeping a window on the intended display, preserving a deliberate resize, and stopping animation writes when a window enters fullscreen.
 
-I like the details that make software dependable: a window staying on the right monitor, an original CSV remaining intact, or an exported document matching the version someone reviewed.
+[Public release v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation & architecture](https://github.com/Andrew-Smith-93/Tessera#readme) · [Desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/main/docs/screenshots/tessera-multiscreen-live.png)
 
-The projects here use TypeScript and JavaScript, Rust, Godot/GDScript, Linux/KWin, and x86-64 assembly.
+### [Codeward](https://github.com/Andrew-Smith-93/codeward)
+**AI-assisted code review tooling**
 
-## Featured builds
+A collaborative TypeScript project with a CLI and GitHub Action for reviewing diffs. It explores specialized review passes and bringing their findings back into a usable workflow. Automated findings still need human judgment.
 
-### Tessera · released KDE Plasma 6 tiling script
+### [Browser tools](https://andrewsmith.app/work/)
+**Small applications with a clear purpose**
 
-Deterministic snap-region layouts, keyboard controls, and multi-monitor tiling inside KWin. Active animations stop on fullscreen transitions rather than writing stale window geometry. The release notes distinguish automated checks from live desktop verification and remaining limits.
+Fieldwork covers contractor jobs and estimates; Table focuses on CSV preparation; Outline supports writing and revisions. These are local browser apps with exports, not hosted team platforms or payment systems. The collection also includes prototypes and visual experiments.
 
-[Source & installation](https://github.com/Andrew-Smith-93/Tessera) · [v1.0.2 release](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Live desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/main/docs/screenshots/tessera-multiscreen-live.png)
+## Engineering in public
 
-### Domillio · public sample workflows
+A small, verifiable snapshot of the public repositories, not a popularity score.
 
-Browser-based samples of Shopify-focused certificate review and product-safety document workflows. These demos illustrate interface behavior with sample data, not real merchant approvals or evidence of production readiness. The underlying products remain in development or review.
+[![Public engineering snapshot: Tessera has 15 merged pull requests, including 10 authored by Andrew and 5 by Dependabot; Tessera has 2 published releases and Codeward has 1. Snapshot November 17, 2026.](assets/public-engineering.svg)](stats/public-engineering.md)
 
-[Explore sample workflows](https://domillio.org/demos)
+The chart counts repository activity, not users, revenue, test coverage, or all of my work. [Sources, exact counts, and methodology](stats/public-engineering.md).
 
-## Languages in my public repositories
+### Languages in my public repositories
 
 [![Language percentages across my public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Andrew-Smith-93&layout=compact&langs_count=8&theme=transparent&card_width=400&disable_animations=true)](https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/)
 
-These percentages reflect code size in my public, non-forked repositories, not skill level or time spent. Private projects and contributions to other owners' repositories aren't included.
+This live third-party card measures public, non-forked code size, not proficiency or time spent. It excludes private projects and work in other owners' repositories.
+
+[GitHub contribution history](https://github.com/Andrew-Smith-93?tab=overview) is a separate view of activity, not a measure of software quality.
+
+## Beyond the public repositories
+
+- **Bridge:** a local desktop console for agent activity, messages, and worktree review, with native and x86-64 assembly work in its preview.
+- **Anvil:** a pre-release Rust job queue for Linux, backed by SQLite and designed for a single machine.
+- **Dies Irae & Lanternbound:** Godot game projects exploring action-roguelike and companion-card mechanics.
+
+These projects are still in development and their source is private. I don't treat a prototype, a simulation, and a shipped release as interchangeable.
+
+## How I approach the work
+
+I like software that behaves predictably and makes its state understandable. An original CSV should survive an edit. An export should match what was reviewed. A window should stay on the right monitor.
+
+I use AI tools alongside code review, tests, and hands-on debugging. The interesting part isn't generating more code; it's deciding what belongs, finding what breaks, and making the result coherent.
+
+**Technical interests:** Rust · TypeScript / JavaScript · Linux / KWin · SQLite · Godot / GDScript · x86-64 assembly · web UX
+
+[andrewsmith.app](https://andrewsmith.app)
