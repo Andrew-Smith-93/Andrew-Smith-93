@@ -1,6 +1,6 @@
 # Hi, I'm Andrew
 
-I'm an independent developer in Mississippi. I build desktop tools, web applications, and games. I own and build [Domillio](https://domillio.org).
+I'm an independent developer in Mississippi. I build desktop tools, web applications, and games. I own [Domillio](https://domillio.org).
 
 I use AI tools as part of development, alongside code review, testing, and hands-on debugging. My projects are at different stages: some have public releases, some are browser demos, and others are still taking shape.
 
