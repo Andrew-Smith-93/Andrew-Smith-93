@@ -28,6 +28,20 @@ I like the details that make software dependable: a window staying on the right 
 
 The projects here use TypeScript and JavaScript, Rust, Godot/GDScript, Linux/KWin, and x86-64 assembly.
 
+## Featured builds
+
+### Tessera · released KDE Plasma 6 tiling script
+
+Deterministic snap-region layouts, keyboard controls, and multi-monitor tiling inside KWin. Active animations stop on fullscreen transitions rather than writing stale window geometry. The release notes distinguish automated checks from live desktop verification and remaining limits.
+
+[Source & installation](https://github.com/Andrew-Smith-93/Tessera) · [v1.0.2 release](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Live desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/main/docs/screenshots/tessera-multiscreen-live.png)
+
+### Domillio · public sample workflows
+
+Browser-based samples of Shopify-focused certificate review and product-safety document workflows. These demos illustrate interface behavior with sample data, not real merchant approvals or evidence of production readiness. The underlying products remain in development or review.
+
+[Explore sample workflows](https://domillio.org/demos)
+
 ## Languages in my public repositories
 
 [![Language percentages across my public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Andrew-Smith-93&layout=compact&langs_count=8&theme=transparent&card_width=400&disable_animations=true)](https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/)
