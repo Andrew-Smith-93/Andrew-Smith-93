@@ -26,7 +26,7 @@ Tessera runs inside KWin rather than replacing the desktop. It combines determin
 
 A collaborative TypeScript project with a CLI and GitHub Action for reviewing diffs. It explores specialized review passes and bringing their findings back into a usable workflow. Automated findings still need human judgment.
 
-## [Browser tools](https://andrewsmith.app/work/)
+## Browser tools
 **Small applications with a clear purpose**
 
 Fieldwork covers contractor jobs and estimates; Table focuses on CSV preparation; Outline supports writing and revisions. These are local browser apps with exports, not hosted team platforms or payment systems. The collection also includes prototypes and visual experiments.
