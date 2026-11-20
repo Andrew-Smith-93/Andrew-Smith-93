@@ -19,7 +19,7 @@ The [public browser demos](https://domillio.org/demos) show sample workflows. Th
 
 Tessera runs inside KWin rather than replacing the desktop. It combines deterministic snap-region layouts, keyboard controls, and multi-monitor behavior. The details matter here: keeping a window on the intended display, preserving a deliberate resize, and stopping animation writes when a window enters fullscreen.
 
-[Public release v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation & architecture](https://github.com/Andrew-Smith-93/Tessera#readme) · [Desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/main/docs/screenshots/tessera-multiscreen-live.png)
+[Public release v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation & architecture](https://github.com/Andrew-Smith-93/Tessera#readme) · [Desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/v1.0.2/docs/screenshots/tessera-multiscreen-live.png)
 
 ## [Codeward](https://github.com/Andrew-Smith-93/codeward)
 **AI-assisted code review tooling**
