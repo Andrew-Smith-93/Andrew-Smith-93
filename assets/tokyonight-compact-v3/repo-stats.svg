@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="154" viewBox="0 0 274 154" role="img" aria-labelledby="title desc">
+<title id="title">Featured repository stats</title>
+<desc id="desc">Keep RAM Clean: 5 stable releases November 19 to 23, latest v2.3.0 on November 23. Tessera: latest v1.0.2 on September 28; 17 merged PRs, 12 Andrew authored and 5 Dependabot authored.</desc>
+<rect x="0" y="2" width="274" height="150" rx="9" fill="#1a1b26"/>
+<rect x="9" y="37" width="256" height="44" rx="6" fill="#24283b"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="14" y="26" font-size="17" fill="#73daca" font-weight="700" text-anchor="start">Featured projects</text>
+<text x="14" y="55" font-size="15" fill="#c0caf5" font-weight="700" text-anchor="start">Keep RAM Clean</text>
+<text x="14" y="74" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">v2.3.0 · 5 releases Nov 19–23</text>
+<text x="14" y="102" font-size="15" fill="#c0caf5" font-weight="700" text-anchor="start">Tessera</text>
+<text x="14" y="120" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">v1.0.2 · Sep 28</text>
+<text x="14" y="140" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">17 PRs: 12 mine, 5 Dependabot</text>
+</g>
+</svg>

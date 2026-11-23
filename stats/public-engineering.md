@@ -1,49 +1,27 @@
 # Public engineering snapshot
 
-Snapshot date: 2026-11-23 (UTC). This file and the [current SVG](../assets/public-engineering-2026-11-23-tokyonight-v1.svg) are a static snapshot, not an automatically updating service.
-
-## Counts
-
-| Metric | Count | Scope |
-| --- | ---: | --- |
-| Tessera merged pull requests | 17 | All merged PRs in the public repository |
-| Andrew-Smith-93-authored Tessera merged PRs | 12 | PR author login, not commit authorship |
-| Dependabot-authored Tessera merged PRs | 5 | Automation included separately |
-| Tessera published releases | 2 | v1.0.1, v1.0.2 |
-| Codeward published releases | 2 | v1.0.0, v2.0.0 |
-| Keep RAM Clean published releases | 5 | v2.0.0, v2.1.0, v2.2.0, v2.2.1, v2.3.0 |
-
-## Sources and method
-
-- [Tessera closed pull requests, GitHub REST API](https://api.github.com/repos/Andrew-Smith-93/Tessera/pulls?state=closed&per_page=100): fetched 24 records, retained the 17 with non-null `merged_at`. The complete result fits one page. Grouped retained records by `user.login`.
-- [Tessera releases, GitHub REST API](https://api.github.com/repos/Andrew-Smith-93/Tessera/releases?per_page=100): 2 records, both published, non-draft, and non-prerelease.
-- [Codeward releases, GitHub REST API](https://api.github.com/repos/Andrew-Smith-93/codeward/releases?per_page=100): 2 records, both published, non-draft, and non-prerelease.
-- [Keep RAM Clean releases, GitHub REST API](https://api.github.com/repos/Andrew-Smith-93/keep-ram-clean/releases?per_page=100): 5 published, non-draft, non-prerelease records. Crates.io publishes are not counted separately.
-- PR numbers included: #24, #23, #22, #21, #20, #19, #16, #15, #14, #13, #12, #11, #10, #9, #8, #7, #6.
-
-The top bar divides all 17 merged PRs by author category (12/17 and 5/17). Release bars share a zero baseline and the same scale (95.2 SVG units per release).
-
-These are repository totals, not claims of personal authorship of every change. They do not measure customers, downloads, production readiness, revenue, review quality, or current test results. Private repositories are excluded. Refresh the API reads and regenerate the counts, date, SVG labels, and README alt text together when updating.
-
+Static snapshot, November 23, 2026 (UTC). [Text version](../profile-text.md) · [Card view](../README.md).
 
 ## Repository stats
 
-The per-repository table uses the same release counts above and each repository's public `stargazers_count` on November 23, 2026 (UTC): [Keep RAM Clean](https://api.github.com/repos/Andrew-Smith-93/keep-ram-clean) 3; [Tessera](https://api.github.com/repos/Andrew-Smith-93/Tessera) 1; [Codeward](https://api.github.com/repos/Andrew-Smith-93/codeward) 1. These are stars received per repository, not unique people or usage metrics.
+| Project | Latest stable GitHub release as of snapshot | Other activity |
+| --- | --- | --- |
+| Keep RAM Clean | [v2.3.0](https://github.com/Andrew-Smith-93/keep-ram-clean/releases/tag/v2.3.0) · Nov 23 | 5 stable releases published Nov 19–23 |
+| Tessera | [v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · Sep 28 | 17 merged PRs: 12 authored by Andrew and 5 by Dependabot |
+
+The [Tessera closed PR endpoint](https://api.github.com/repos/Andrew-Smith-93/Tessera/pulls?state=closed&per_page=100) returned 24 closed records. The count retains 17 with non-null `merged_at` through November 23 (all within the 90-day window), grouped by PR author login: `Andrew-Smith-93` (12) and `dependabot[bot]` (5). This attributes the PRs, not every commit. Counted PRs: #24, #23, #22, #21, #20, #19, #16, #15, #14, #13, #12, #11, #10, #9, #8, #7, #6.
 
 ## Profile-wide stats
 
-Snapshot date: 2026-11-23 (UTC). The [profile stats card](../assets/profile-stats-2026-11-23-tokyonight-v1.svg) uses the [GitHub public owned repositories endpoint](https://api.github.com/users/Andrew-Smith-93/repos?type=owner&per_page=100). Seven public owned repositories fit on one page; one was a fork and was excluded. The profile README repository is included in the six non-forks and has no primary language.
+**9 stable GitHub releases across 3 repositories** over 90 UTC calendar days, August 26 through November 23, 2026, inclusive. There were 3 in September and 6 in November. The totals include all qualifying owned public non-forks, not only the featured projects.
 
-| Metric | Count | Method |
+The [public owned repository endpoint](https://api.github.com/users/Andrew-Smith-93/repos?type=owner&per_page=100) returned seven public repositories. One fork was excluded. For each of the six remaining repositories, read its releases endpoint and retained entries where `draft` and `prerelease` were false and `published_at` satisfied `>= 2026-08-26T00:00:00Z` and `< 2026-11-24T00:00:00Z`. Dates are publication dates, not Git tag dates. Package registry publishes, private repos, and activity in repositories owned by others are outside this snapshot.
+
+| Releases endpoint | Count | Included versions and publication dates (UTC) |
 | --- | ---: | --- |
-| Public non-fork repositories | 6 | Exclude rows with `fork: true` |
-| Stars received | 6 | Sum `stargazers_count` across those six: Keep RAM Clean 3; the profile repo, Codeward, and Tessera 1 each; the other two 0 |
-| Distinct primary languages | 4 | Count distinct non-null `language` values: Assembly, HTML, Rust, TypeScript |
+| [Keep RAM Clean](https://api.github.com/repos/Andrew-Smith-93/keep-ram-clean/releases?per_page=100) | 5 | v2.0.0 Nov 19; v2.1.0 and v2.2.0 Nov 21; v2.2.1 and v2.3.0 Nov 23 |
+| [Tessera](https://api.github.com/repos/Andrew-Smith-93/Tessera/releases?per_page=100) | 2 | v1.0.1 Sep 27; v1.0.2 Sep 28 |
+| [Codeward](https://api.github.com/repos/Andrew-Smith-93/codeward/releases?per_page=100) | 2 | v1.0.0 Sep 20; v2.0.0 Nov 23 |
+| [Profile](https://api.github.com/repos/Andrew-Smith-93/Andrew-Smith-93/releases?per_page=100), [Andrew-Smith-93.github.io](https://api.github.com/repos/Andrew-Smith-93/Andrew-Smith-93.github.io/releases?per_page=100), [bone-lab-assembly](https://api.github.com/repos/Andrew-Smith-93/bone-lab-assembly/releases?per_page=100) | 0 | None |
 
-These are GitHub repository metadata counts. Stars received are not stars Andrew gave, unique people, usage, or downloads. Primary language is GitHub's repository-level label, not a complete language inventory or a proficiency measure. Private work and work in others' repositories are excluded.
-
-## Modeled rank
-
-GitHub Readme Stats returned **C+ · Top 78.5%** for Andrew-Smith-93 on November 23, 2026 (UTC). The [source card](https://github-readme-stats.vercel.app/api?username=Andrew-Smith-93&theme=tokyonight&rank_icon=percentile&show_icons=true&disable_animations=true) is linked for provenance only and may return a later value. The [open-source rank model](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js) combines weighted activity inputs against its own distributions. Smaller "Top …%" values are stronger in this model. It is not an official GitHub rank, an empirical comparison with all GitHub users, or a measure of engineering quality. The README embeds only a static copy of those two values, not the third-party service.
-
-The illustrations and both data cards use the [TokyoNight Night palette](https://github.com/folke/tokyonight.nvim/blob/main/lua/tokyonight/colors/night.lua); the surrounding README uses GitHub’s native theme.
+These counts describe published release and PR activity, not usage or software quality. When refreshing the snapshot, update the cards, alt text, text version, and scope together.

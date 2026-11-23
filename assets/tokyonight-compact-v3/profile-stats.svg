@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="154" viewBox="0 0 274 154" role="img" aria-labelledby="title desc">
+<title id="title">Public release activity</title>
+<desc id="desc">9 stable releases across 3 owned public non-fork repositories from August 26 to November 23, 2026 UTC: 3 in September and 6 in November.</desc>
+<rect x="0" y="2" width="274" height="150" rx="9" fill="#1a1b26"/>
+<rect x="9" y="37" width="256" height="44" rx="6" fill="#24283b"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="14" y="26" font-size="17" fill="#bb9af7" font-weight="700" text-anchor="start">Public release activity</text>
+<text x="14" y="64" font-size="20" fill="#bb9af7" font-weight="700" text-anchor="start">9 stable releases</text>
+<text x="14" y="101" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">Across 3 public non-fork repos</text>
+<text x="14" y="120" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">3 in Sep · 6 in Nov</text>
+<text x="14" y="140" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Aug 26–Nov 23, 2026 UTC</text>
+</g>
+</svg>
