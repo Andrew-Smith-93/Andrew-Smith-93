@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="114" viewBox="0 0 200 114" role="img" aria-labelledby="title desc">
+<title id="title">Featured projects</title>
+<desc id="desc">Keep RAM Clean: v2.3.0, November 23, 2026; five stable releases November 19–23. Tessera: latest release v1.0.2 September 28, 2026; 17 merged PRs, 12 by Andrew and 5 by Dependabot.</desc>
+<rect x="2" y="3" width="196" height="108" rx="8" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="14" y="25" font-size="16" fill="#73daca" font-weight="700" text-anchor="start">Featured projects</text>
+<text x="14" y="46" font-size="14" fill="#c0caf5" font-weight="700" text-anchor="start">Keep RAM Clean</text>
+<text x="14" y="63" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">v2.3.0 · 5 releases</text>
+<path d="M14 71H186" stroke="#3b4261" stroke-width="1"/>
+<text x="14" y="87" font-size="14" fill="#c0caf5" font-weight="700" text-anchor="start">Tessera</text>
+<text x="14" y="101" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">v1.0.2 · 17 merged PRs</text>
+</g>
+</svg>

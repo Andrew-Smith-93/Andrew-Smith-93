@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="58" viewBox="0 0 200 58" role="img" aria-labelledby="title desc">
+<title id="title">Tessera</title>
+<desc id="desc">Keyboard tiling for KDE Plasma 6 that runs inside KWin.</desc>
+<rect x="2" y="3" width="196" height="52" rx="8" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<rect x="10" y="13" width="3" height="32" rx="1" fill="#7aa2f7"/>
+<text x="19" y="26" font-size="18" fill="#7aa2f7" font-weight="700" text-anchor="start">Tessera</text>
+<text x="19" y="44" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">KDE Plasma 6 tiling</text>
+</g>
+</svg>
