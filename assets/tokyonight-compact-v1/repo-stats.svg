@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="154" viewBox="0 0 274 154" role="img" aria-labelledby="title desc">
+<title id="title">Public repository stats</title>
+<desc id="desc">November 23, 2026. Keep RAM Clean: 3 stars and 5 stable releases. Tessera: 1 star and 2 stable releases. Tessera merged 17 PRs: 12 by Andrew, 5 by Dependabot.</desc>
+<rect x="0" y="2" width="274" height="150" rx="9" fill="#1a1b26"/>
+<g font-family="system-ui, sans-serif">
+<text x="13" y="24" font-size="17" fill="#73daca" font-weight="700" text-anchor="start">Repo stats</text>
+<text x="261" y="24" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="end">2026-11-23</text>
+<text x="13" y="47" font-size="13" fill="#a9b1d6" font-weight="700" text-anchor="start">Repository</text>
+<text x="190" y="47" font-size="13" fill="#a9b1d6" font-weight="700" text-anchor="end">Stars</text>
+<text x="261" y="47" font-size="13" fill="#a9b1d6" font-weight="700" text-anchor="end">Releases</text>
+<rect x="9" y="52" width="256" height="23" rx="6" fill="#24283b"/>
+<text x="13" y="69" font-size="14" fill="#c0caf5" font-weight="700" text-anchor="start">Keep RAM Clean</text>
+<text x="190" y="69" font-size="14" fill="#73daca" font-weight="700" text-anchor="end">3</text>
+<text x="261" y="69" font-size="14" fill="#73daca" font-weight="700" text-anchor="end">5</text>
+<text x="13" y="90" font-size="14" fill="#c0caf5" font-weight="400" text-anchor="start">Tessera</text>
+<text x="190" y="90" font-size="14" fill="#c0caf5" font-weight="400" text-anchor="end">1</text>
+<text x="261" y="90" font-size="14" fill="#c0caf5" font-weight="400" text-anchor="end">2</text>
+<path d="M13 101H261" stroke="#3b4261" stroke-width="1"/>
+<text x="13" y="122" font-size="14" fill="#c0caf5" font-weight="400" text-anchor="start">Tessera: 17 merged PRs</text>
+<text x="13" y="141" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">12 by me / 5 by Dependabot</text>
+</g>
+</svg>

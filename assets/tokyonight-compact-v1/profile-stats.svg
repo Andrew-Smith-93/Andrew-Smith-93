@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="154" viewBox="0 0 274 154" role="img" aria-labelledby="title desc">
+<title id="title">Public profile stats</title>
+<desc id="desc">November 23, 2026. 6 owned public non-fork repositories, 6 stars received, 4 primary languages. GitHub Readme Stats model C+, top 78.5 percent. Not official.</desc>
+<rect x="0" y="2" width="274" height="150" rx="9" fill="#1a1b26"/>
+<g font-family="system-ui, sans-serif">
+<text x="13" y="24" font-size="17" fill="#bb9af7" font-weight="700" text-anchor="start">Profile stats</text>
+<text x="261" y="24" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="end">2026-11-23</text>
+<text x="13" y="49" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">6 public non-fork repos / 6 stars received</text>
+<text x="13" y="68" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">4 primary languages</text>
+<rect x="9" y="80" width="256" height="65" rx="6" fill="#24283b"/>
+<text x="14" y="102" font-size="18" fill="#bb9af7" font-weight="700" text-anchor="start">C+ / Top 78.5%</text>
+<text x="14" y="121" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">GitHub Readme Stats model</text>
+<text x="14" y="138" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Not an official GitHub rank</text>
+</g>
+</svg>
