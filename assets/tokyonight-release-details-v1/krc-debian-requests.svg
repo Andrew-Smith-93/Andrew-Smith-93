@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="134" viewBox="0 0 200 134" role="img" aria-labelledby="title desc">
+<title id="title">KRC package downloads</title>
+<desc id="desc">On November 23, 2026: 9 GitHub Debian package download requests and, separately, 17 crates.io download requests. These are different package formats and counters, not installs or users.</desc>
+<rect x="2" y="3" width="196" height="128" rx="8" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="13" y="25" font-size="16" fill="#7dcfff" font-weight="700" text-anchor="start">KRC downloads</text>
+<rect x="8" y="35" width="182" height="26" rx="4" fill="#24283b"/>
+<text x="13" y="53" font-size="13" fill="#c0caf5" text-anchor="start">GitHub .deb</text>
+<text x="186" y="53" font-size="16" fill="#7dcfff" font-weight="700" text-anchor="end">9</text>
+<text x="13" y="80" font-size="13" fill="#c0caf5" text-anchor="start">crates.io</text>
+<text x="186" y="80" font-size="16" fill="#7dcfff" font-weight="700" text-anchor="end">17</text>
+<text x="13" y="103" font-size="13" fill="#a9b1d6" text-anchor="start">Separate counters</text>
+<text x="13" y="122" font-size="13" fill="#a9b1d6" text-anchor="start">Requests, not installs</text>
+</g>
+</svg>

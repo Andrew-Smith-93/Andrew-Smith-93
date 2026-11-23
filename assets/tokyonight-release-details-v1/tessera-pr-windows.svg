@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="134" viewBox="0 0 200 134" role="img" aria-labelledby="title desc">
+<title id="title">Tessera merges</title>
+<desc id="desc">The 30-day window ended November 23, 2026: 2 Andrew-authored and 4 Dependabot-authored, 6 total. The 90-day window: 12 Andrew-authored and 5 Dependabot-authored, 17 total.</desc>
+<rect x="2" y="3" width="196" height="128" rx="8" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="13" y="25" font-size="16" fill="#7aa2f7" font-weight="700" text-anchor="start">Tessera merges</text>
+<text x="13" y="49" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Days</text>
+<text x="103" y="49" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="end">Mine</text>
+<text x="142" y="49" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="end">Bot</text>
+<text x="186" y="49" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="end">All</text>
+<rect x="8" y="54" width="182" height="23" rx="4" fill="#24283b"/>
+<text x="13" y="71" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">30 days</text>
+<text x="103" y="71" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">2</text>
+<text x="142" y="71" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">4</text>
+<text x="186" y="71" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">6</text>
+<text x="13" y="97" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">90 days</text>
+<text x="103" y="97" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">12</text>
+<text x="142" y="97" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">5</text>
+<text x="186" y="97" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">17</text>
+<text x="13" y="121" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Bot = Dependabot</text>
+</g>
+</svg>

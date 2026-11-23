@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="134" viewBox="0 0 200 134" role="img" aria-labelledby="title desc">
+<title id="title">Releases by month</title>
+<desc id="desc">Stable releases Aug 26–Nov 23, 2026 UTC: September 3, October 0, November 6 through the 23rd.</desc>
+<rect x="2" y="3" width="196" height="128" rx="8" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<text x="13" y="25" font-size="16" fill="#bb9af7" font-weight="700" text-anchor="start">Releases by month</text>
+<text x="13" y="51" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">Sep</text>
+<rect x="69" y="41" width="88" height="9" rx="4" fill="#24283b"/>
+<rect x="69" y="41" width="44.0" height="9" rx="4" fill="#bb9af7"/>
+<text x="186" y="51" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">3</text>
+<text x="13" y="76" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">Oct</text>
+<rect x="69" y="66" width="88" height="9" rx="4" fill="#24283b"/>
+<text x="186" y="76" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">0</text>
+<text x="13" y="101" font-size="13" fill="#c0caf5" font-weight="400" text-anchor="start">Nov</text>
+<rect x="69" y="91" width="88" height="9" rx="4" fill="#24283b"/>
+<rect x="69" y="91" width="88.0" height="9" rx="4" fill="#bb9af7"/>
+<text x="186" y="101" font-size="13" fill="#c0caf5" font-weight="700" text-anchor="end">6</text>
+<text x="13" y="121" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Through Nov 23</text>
+</g>
+</svg>
