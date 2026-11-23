@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="80" viewBox="0 0 274 80" role="img" aria-labelledby="title desc">
+<title id="title">Keep RAM Clean</title>
+<desc id="desc">Rust daemon and CLI. Linux memory and swap.</desc>
+<rect x="0" y="2" width="274" height="76" rx="9" fill="#1a1b26"/>
+<g font-family="Arial, Liberation Sans, sans-serif">
+<rect x="12" y="11" width="3" height="56" rx="1" fill="#73daca"/>
+<text x="23" y="26" font-size="18" fill="#73daca" font-weight="700" text-anchor="start">Keep RAM Clean</text>
+<text x="258" y="25" font-size="15" fill="#73daca" font-weight="700" text-anchor="end">→</text>
+<text x="23" y="48" font-size="14" fill="#c0caf5" font-weight="400" text-anchor="start">Rust daemon and CLI</text>
+<text x="23" y="66" font-size="13" fill="#a9b1d6" font-weight="400" text-anchor="start">Linux memory and swap</text>
+</g>
+</svg>
