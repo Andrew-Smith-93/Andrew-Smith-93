@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352" role="img" aria-labelledby="title desc">
+  <title id="title">Public GitHub profile stats</title>
+  <desc id="desc">November 23, 2026. Six owned public non-fork repositories, six stars received on them, and four primary languages: Assembly, HTML, Rust, and TypeScript. Third-party GitHub Readme Stats model: C plus, top 78.5 percent; not an official GitHub rank.</desc>
+  <rect width="900" height="352" rx="18" fill="#1a1b26"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="32" y="42" fill="#73daca" font-size="22" letter-spacing="2">PROFILE STATS</text>
+    <text x="868" y="42" text-anchor="end" fill="#a9b1d6" font-size="20">2026-11-23</text>
+    <rect x="24" y="68" width="852" height="126" rx="11" fill="#24283b"/>
+    <path d="M304 90v82m282-82v82" stroke="#565f89" stroke-width="2"/>
+    <text x="54" y="136" fill="#73daca" font-size="54" font-weight="700">06</text>
+    <text x="334" y="136" fill="#bb9af7" font-size="54" font-weight="700">06</text>
+    <text x="616" y="136" fill="#73daca" font-size="54" font-weight="700">04</text>
+    <text x="54" y="170" fill="#c0caf5" font-size="24">Public repos</text>
+    <text x="334" y="170" fill="#c0caf5" font-size="24">Stars received</text>
+    <text x="616" y="170" fill="#c0caf5" font-size="24">Primary languages</text>
+    <text x="32" y="226" fill="#a9b1d6" font-size="22">Owned, public and non-fork · GitHub API</text>
+    <rect x="24" y="248" width="852" height="82" rx="11" fill="#24283b"/>
+    <text x="54" y="281" fill="#c0caf5" font-size="24">GitHub Readme Stats model</text>
+    <text x="54" y="309" fill="#a9b1d6" font-size="20">Not an official GitHub rank</text>
+    <text x="846" y="299" text-anchor="end" fill="#bb9af7" font-size="31" font-weight="700">C+ / Top 78.5%</text>
+  </g>
+</svg>

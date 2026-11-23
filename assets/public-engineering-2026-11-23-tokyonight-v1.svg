@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-labelledby="title desc">
+  <title id="title">Public engineering snapshot</title>
+  <desc id="desc">November 23, 2026. Published stable GitHub releases: Keep RAM Clean 5, Tessera 2, Codeward 2. Tessera merged pull requests: Andrew 12, Dependabot 5, total 17.</desc>
+  <rect width="900" height="410" rx="18" fill="#1a1b26"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="32" y="42" fill="#73daca" font-size="22" letter-spacing="2">PUBLIC ENGINEERING</text>
+    <text x="868" y="42" text-anchor="end" fill="#a9b1d6" font-size="20">2026-11-23</text>
+    <text x="32" y="85" fill="#c0caf5" font-size="31" font-weight="700">Stable GitHub releases</text>
+
+    <rect x="20" y="105" width="860" height="61" rx="9" fill="#24283b"/>
+    <text x="32" y="143" fill="#c0caf5" font-size="30" font-weight="700">Keep RAM Clean</text>
+    <text x="866" y="143" text-anchor="end" fill="#73daca" font-size="32" font-weight="700">5</text>
+    <text x="32" y="203" fill="#a9b1d6" font-size="26">Tessera</text>
+    <text x="866" y="203" text-anchor="end" fill="#c0caf5" font-size="27">2</text>
+    <text x="32" y="250" fill="#a9b1d6" font-size="26">Codeward</text>
+    <text x="866" y="250" text-anchor="end" fill="#c0caf5" font-size="27">2</text>
+
+    <g fill="#3b4261">
+      <rect x="325" y="127" width="476" height="18" rx="5"/>
+      <rect x="325" y="189" width="476" height="15" rx="5"/>
+      <rect x="325" y="236" width="476" height="15" rx="5"/>
+    </g>
+    <rect x="325" y="127" width="476" height="18" rx="5" fill="#73daca"/>
+    <rect x="325" y="189" width="190.4" height="15" rx="5" fill="#bb9af7"/>
+    <rect x="325" y="236" width="190.4" height="15" rx="5" fill="#bb9af7"/>
+
+    <path d="M32 273h836" stroke="#565f89" stroke-width="2"/>
+    <text x="32" y="309" fill="#c0caf5" font-size="26" font-weight="700">Tessera merged PRs</text>
+    <text x="868" y="309" text-anchor="end" fill="#c0caf5" font-size="26">17 total</text>
+    <rect x="32" y="326" width="836" height="20" rx="5" fill="#bb9af7"/>
+    <rect x="32" y="326" width="590.12" height="20" rx="5" fill="#73daca"/>
+    <text x="32" y="382" fill="#73daca" font-size="23">12 Andrew-authored</text>
+    <text x="868" y="382" text-anchor="end" fill="#bb9af7" font-size="23">5 Dependabot-authored</text>
+  </g>
+</svg>

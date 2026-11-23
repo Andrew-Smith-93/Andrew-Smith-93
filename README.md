@@ -1,71 +1,75 @@
 # Andrew Smith
 
-**Domillio owner · software developer**
+![Field Notes illustration: window panes, a memory waveform, and a document outline on a navy grid.](assets/field-notes-tokyonight-v1.svg)
 
-I own [Domillio](https://domillio.org). I'm an independent developer in Mississippi, working across web applications, practical Linux tooling, desktop software, and games.
+I own [Domillio](https://domillio.org). I'm an independent developer in Mississippi. I build Linux tools, web apps, and games, and I like working on both the machinery underneath and the part people actually touch.
 
-I'm interested in both sides of software: the systems underneath it and what it feels like to use. Rust, persistent state, window-management behavior, and low-level interfaces sit alongside web UX, clear workflows, and useful exports.
+[Selected builds](#selected-builds) · [Release history](#engineering-in-public) · [Profile stats](#profile-stats) · [Experiments](#under-construction) · [andrewsmith.app](https://andrewsmith.app)
 
-## Domillio
+## Selected builds
 
-**Shopify-focused document workflows**
+### 01 / [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean)
 
-My work on Domillio centers on tax-exemption certificates, product-safety documents, and disclosure workflows. I care about making complicated records easier to collect, review, and understand.
+**Rust · Linux daemon and CLI.** Keep RAM Clean monitors RAM, swap, tmpfs, and memory pressure. Cleanup runs on thresholds and schedules you set.
 
-The [public browser demos](https://domillio.org/demos) show sample workflows. They aren't real merchant approvals or proof of production readiness; the underlying products are still in development or review.
+[Source and setup](https://github.com/Andrew-Smith-93/keep-ram-clean#readme) · [v2.3.0 release](https://github.com/Andrew-Smith-93/keep-ram-clean/releases/tag/v2.3.0)
 
-## [Tessera](https://github.com/Andrew-Smith-93/Tessera)
-**Keyboard-driven tiling inside KDE Plasma 6**
+### 02 / [Domillio](https://domillio.org)
 
-Tessera runs inside KWin rather than replacing the desktop. It combines deterministic snap-region layouts, keyboard controls, and multi-monitor behavior. The details matter here: keeping a window on the intended display, preserving a deliberate resize, and stopping animation writes when a window enters fullscreen.
+**Shopify-focused document workflows.** I'm working on ways to collect and review tax-exemption certificates, product-safety documents, and disclosures without losing track of what was submitted or reviewed. The public browser demos use sample data; they aren't real merchant approvals or a claim of production readiness.
 
-[Public release v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation & architecture](https://github.com/Andrew-Smith-93/Tessera#readme) · [Desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/v1.0.2/docs/screenshots/tessera-multiscreen-live.png)
+[Public browser demos](https://domillio.org/demos)
 
-## [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean)
-**Linux memory monitoring and cleanup in Rust**
+### 03 / [Tessera](https://github.com/Andrew-Smith-93/Tessera)
 
-Keep RAM Clean is a daemon and CLI for monitoring RAM, swap, tmpfs, and memory pressure. Cleanup follows thresholds and schedules you configure. [Public releases](https://github.com/Andrew-Smith-93/keep-ram-clean/releases).
+**KDE Plasma 6 · keyboard-driven window tiling.** Tessera runs inside KWin rather than replacing the desktop. I wanted windows to stay on the intended monitor, preserve a deliberate resize, and stop being driven by the tiler when they enter fullscreen.
 
-## [Codeward](https://github.com/Andrew-Smith-93/codeward)
-**AI-assisted code review tooling**
+[v1.0.2 release](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation and architecture](https://github.com/Andrew-Smith-93/Tessera#readme)
 
-A collaborative TypeScript project with a CLI and GitHub Action for reviewing diffs. It explores specialized review passes and bringing their findings back into a usable workflow. Automated findings still need human judgment.
+<details>
+<summary>See Tessera on two monitors</summary>
 
-## Browser tools
-**Small applications with a clear purpose**
+[Open the full-size v1.0.2 screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/v1.0.2/docs/screenshots/tessera-multiscreen-live.png)
 
-Fieldwork covers contractor jobs and estimates; Table focuses on CSV preparation; Outline supports writing and revisions. These are local browser apps with exports, not hosted team platforms or payment systems. The collection also includes prototypes and visual experiments.
+</details>
+
+### 04 / [Codeward](https://github.com/Andrew-Smith-93/codeward)
+
+**TypeScript · code review tooling.** A collaborative CLI and GitHub Action project exploring how specialized review passes can produce findings people can actually use. The released v2 GitHub Action runs in offline mock mode. Automated findings still need human judgment.
+
+[v2.0.0 release](https://github.com/Andrew-Smith-93/codeward/releases/tag/v2.0.0) · [Offline quickstart](https://github.com/Andrew-Smith-93/codeward#-quickstart)
 
 ## Engineering in public
 
-A small, verifiable snapshot of the public repositories, not a popularity score.
+[![Public engineering snapshot, November 23, 2026: Keep RAM Clean has 5 published stable GitHub releases; Tessera and Codeward have 2 each. Tessera has 17 merged pull requests: 12 by Andrew and 5 by Dependabot.](assets/public-engineering-2026-11-23-tokyonight-v1.svg)](stats/public-engineering.md)
 
-[![Public engineering snapshot, November 23, 2026: Tessera has 17 merged pull requests (12 by Andrew, 5 by Dependabot). Published stable GitHub releases: Tessera 2, Codeward 2, Keep RAM Clean 5.](assets/public-engineering.svg)](stats/public-engineering.md)
+| Public repository | Stars received | Stable releases |
+| --- | ---: | ---: |
+| [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean) | 3 | 5 |
+| [Tessera](https://github.com/Andrew-Smith-93/Tessera) | 1 | 2 |
+| [Codeward](https://github.com/Andrew-Smith-93/codeward) | 1 | 2 |
 
-The chart counts repository activity, not users, revenue, test coverage, or all of my work. [Sources, exact counts, and methodology](stats/public-engineering.md).
+Tessera also has 17 merged pull requests: 12 authored by me and 5 by Dependabot.
 
-## Languages in my public repositories
+[Sources and counting method](stats/public-engineering.md) · [GitHub contribution history](https://github.com/Andrew-Smith-93?tab=overview)
 
-[![Language percentages across my public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Andrew-Smith-93&layout=compact&langs_count=8&theme=transparent&card_width=400&disable_animations=true)](https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/)
+## Profile stats
 
-This live third-party card measures public, non-forked code size, not proficiency or time spent. It excludes private projects and work in other owners' repositories.
+[![Public GitHub profile stats, November 23, 2026: 6 owned public non-fork repositories, 6 stars received on them, and 4 primary languages. GitHub Readme Stats model: C+, Top 78.5%, not an official rank.](assets/profile-stats-2026-11-23-tokyonight-v1.svg)](stats/public-engineering.md#profile-wide-stats)
 
-[GitHub contribution history](https://github.com/Andrew-Smith-93?tab=overview) is a separate view of activity, not a measure of software quality.
+**6 public non-fork repos · 6 stars received · 4 primary languages** (Assembly, HTML, Rust, and TypeScript). These counts exclude private work and forks. [Scope and source](stats/public-engineering.md#profile-wide-stats).
 
-## Beyond the public repositories
+**C+ · Top 78.5%** in the [GitHub Readme Stats model](stats/public-engineering.md#modeled-rank). It is a third-party estimate, not GitHub’s ranking or a measured percentile of GitHub users.
 
-- **Bridge:** a local desktop console for agent activity, messages, and worktree review, with native and x86-64 assembly work in its preview.
-- **Anvil:** a pre-release Rust job queue for Linux, backed by SQLite and designed for a single machine.
-- **Dies Irae & Lanternbound:** Godot game projects exploring action-roguelike and companion-card mechanics.
+## Under construction
 
-These projects are still in development and their source is private. I don't treat a prototype, a simulation, and a shipped release as interchangeable.
+- **Fieldwork, Table, and Outline:** small local browser apps for jobs and estimates, CSV preparation, and writing with revisions.
+- **Bridge:** a private local console for agent activity, messages, and worktree review, with native and x86-64 assembly work in its preview.
+- **Anvil:** a private, pre-release Rust job queue for Linux, backed by SQLite and designed for one machine.
+- **Dies Irae & Lanternbound:** private Godot projects exploring action-roguelike and companion-card mechanics.
 
-## How I approach the work
+## How I build
 
-I like software that behaves predictably and makes its state understandable. An original CSV should survive an edit. An export should match what was reviewed. A window should stay on the right monitor.
+An original CSV should survive an edit. An export should match what was reviewed. A window should stay on the right monitor. I like software that makes its state understandable, and I rely on tests, review, and hands-on debugging to see whether it does what I meant.
 
-I use AI tools alongside code review, tests, and hands-on debugging. The interesting part isn't generating more code; it's deciding what belongs, finding what breaks, and making the result coherent.
-
-**Technical interests:** Rust · TypeScript / JavaScript · Linux / KWin · SQLite · Godot / GDScript · x86-64 assembly · web UX
-
-[andrewsmith.app](https://andrewsmith.app)
+**What I work with:** Rust · TypeScript / JavaScript · Linux / KWin · SQLite · Godot / GDScript · x86-64 assembly · web UX
