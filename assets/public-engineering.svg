@@ -1,19 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
 <title id="title">Public engineering snapshot</title>
-<desc id="desc">November 17, 2026. Tessera: 15 merged pull requests, 10 authored by Andrew-Smith-93 and 5 by Dependabot. Published non-draft releases: Tessera 2, Codeward 1. Repository totals, not personal contribution or usage totals.</desc>
-<rect width="900" height="350" rx="18" fill="#101923"/>
+<desc id="desc">November 23, 2026. Tessera: 17 merged pull requests, 12 authored by Andrew-Smith-93 and 5 by Dependabot. Published stable GitHub releases: Tessera 2, Codeward 2, Keep RAM Clean 5. Repository totals, not personal contribution or usage totals.</desc>
+<rect width="900" height="380" rx="18" fill="#101923"/>
 <g font-family="system-ui,Segoe UI,sans-serif">
 <text x="32" y="40" font-size="14" letter-spacing="2" fill="#68dbce">PUBLIC ENGINEERING</text>
 <text x="32" y="72" font-size="26" font-weight="700" fill="#f0f5fa">Work with a visible history.</text>
-<text x="868" y="40" text-anchor="end" font-size="13" fill="#a4b5c7">SNAPSHOT · 2026-11-17</text>
+<text x="868" y="40" text-anchor="end" font-size="13" fill="#a4b5c7">SNAPSHOT · 2026-11-23</text>
 <text x="32" y="119" font-size="15" font-weight="600" fill="#f0f5fa">Tessera · merged pull requests</text>
-<text x="868" y="119" text-anchor="end" font-size="15" fill="#f0f5fa">15 total</text>
-<rect x="32" y="135" width="557.33" height="28" rx="4" fill="#68dbce"/>
-<rect x="589.33" y="135" width="278.67" height="28" rx="4" fill="#7392cf"/>
-<text x="32" y="187" font-size="13" fill="#68dbce">10 Andrew-authored</text>
+<text x="868" y="119" text-anchor="end" font-size="15" fill="#f0f5fa">17 total</text>
+<rect x="32" y="135" width="590.12" height="28" rx="4" fill="#68dbce"/>
+<rect x="622.12" y="135" width="245.88" height="28" rx="4" fill="#7392cf"/>
+<text x="32" y="187" font-size="13" fill="#68dbce">12 Andrew-authored</text>
 <text x="225" y="187" font-size="13" fill="#9eb9ee">5 Dependabot-authored</text>
-<text x="32" y="225" font-size="15" font-weight="600" fill="#f0f5fa">Published releases</text>
-<text x="32" y="251" font-size="14" fill="#d4deea">Tessera</text><rect x="133" y="237" width="320" height="18" rx="3" fill="#68dbce"/><text x="466" y="251" font-size="14" fill="#f0f5fa">2</text>
-<text x="32" y="281" font-size="14" fill="#d4deea">Codeward</text><rect x="133" y="267" width="160" height="18" rx="3" fill="#7392cf"/><text x="306" y="281" font-size="14" fill="#f0f5fa">1</text>
-<text x="32" y="321" font-size="12" fill="#a4b5c7">GitHub API · Repository totals, including automation · Sources and method linked below</text>
+<text x="32" y="225" font-size="15" font-weight="600" fill="#f0f5fa">Published stable GitHub releases</text>
+<text x="32" y="251" font-size="14" fill="#d4deea">Tessera</text><rect x="160" y="237" width="260" height="18" rx="3" fill="#68dbce"/><text x="433" y="251" font-size="14" fill="#f0f5fa">2</text>
+<text x="32" y="281" font-size="14" fill="#d4deea">Codeward</text><rect x="160" y="267" width="260" height="18" rx="3" fill="#7392cf"/><text x="433" y="281" font-size="14" fill="#f0f5fa">2</text>
+<text x="32" y="311" font-size="14" fill="#d4deea">Keep RAM Clean</text><rect x="160" y="297" width="650" height="18" rx="3" fill="#68dbce"/><text x="823" y="311" font-size="14" fill="#f0f5fa">5</text>
+<text x="32" y="351" font-size="12" fill="#a4b5c7">GitHub API · Repository totals, including automation · Sources and method linked below</text>
 </g></svg>

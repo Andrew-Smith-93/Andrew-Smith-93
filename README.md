@@ -21,6 +21,11 @@ Tessera runs inside KWin rather than replacing the desktop. It combines determin
 
 [Public release v1.0.2](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation & architecture](https://github.com/Andrew-Smith-93/Tessera#readme) · [Desktop screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/v1.0.2/docs/screenshots/tessera-multiscreen-live.png)
 
+## [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean)
+**Linux memory monitoring and cleanup in Rust**
+
+Keep RAM Clean is a daemon and CLI for monitoring RAM, swap, tmpfs, and memory pressure. Cleanup follows thresholds and schedules you configure. [Public releases](https://github.com/Andrew-Smith-93/keep-ram-clean/releases).
+
 ## [Codeward](https://github.com/Andrew-Smith-93/codeward)
 **AI-assisted code review tooling**
 
@@ -35,7 +40,7 @@ Fieldwork covers contractor jobs and estimates; Table focuses on CSV preparation
 
 A small, verifiable snapshot of the public repositories, not a popularity score.
 
-[![Public engineering snapshot: Tessera has 15 merged pull requests, including 10 authored by Andrew and 5 by Dependabot; Tessera has 2 published releases and Codeward has 1. Snapshot November 17, 2026.](assets/public-engineering.svg)](stats/public-engineering.md)
+[![Public engineering snapshot, November 23, 2026: Tessera has 17 merged pull requests (12 by Andrew, 5 by Dependabot). Published stable GitHub releases: Tessera 2, Codeward 2, Keep RAM Clean 5.](assets/public-engineering.svg)](stats/public-engineering.md)
 
 The chart counts repository activity, not users, revenue, test coverage, or all of my work. [Sources, exact counts, and methodology](stats/public-engineering.md).
 
