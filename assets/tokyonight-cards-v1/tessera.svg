@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="584" viewBox="0 0 560 430" role="img" aria-labelledby="title desc">
+<title id="title">Tessera</title>
+<desc id="desc">Keyboard-driven tiling inside KWin, with predictable placement, resizing, and fullscreen behavior. One star and two stable releases as of 2026-11-23.</desc>
+<rect x="0" y="0" width="560" height="430" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#7aa2f7"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#7aa2f7" font-weight="700" font-family="ui-monospace, Consolas, monospace">SELECTED BUILD / 03</text>
+<text x="28" y="96" text-anchor="start" font-size="44" fill="#c0caf5" font-weight="700">Tessera</text>
+<text x="28" y="134" text-anchor="start" font-size="25" fill="#7aa2f7" font-weight="700">KDE Plasma 6 / window tiling</text>
+<text x="28" y="177" text-anchor="start" font-size="27" fill="#c0caf5">Keyboard tiling runs inside KWin.</text>
+<text x="28" y="211" text-anchor="start" font-size="27" fill="#c0caf5">I wanted windows to stay on the</text>
+<text x="28" y="245" text-anchor="start" font-size="27" fill="#c0caf5">right monitor and respect resizing</text>
+<text x="28" y="279" text-anchor="start" font-size="27" fill="#c0caf5">and fullscreen.</text>
+<rect x="24" y="307" width="512" height="45" rx="8" fill="#24283b"/>
+<text x="38" y="337" text-anchor="start" font-size="24" fill="#c0caf5" font-weight="700" font-family="ui-monospace, Consolas, monospace">1 star / 2 stable releases</text>
+<path d="M28 373L532 373" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="408" text-anchor="start" font-size="25" fill="#7aa2f7" font-weight="700">Repository and releases  →</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="604" viewBox="0 0 560 445" role="img" aria-labelledby="title desc">
+<title id="title">Profile stats and modeled rank</title>
+<desc id="desc">Public snapshot on 2026-11-23: 6 owned public non-fork repositories, 6 stars received, 4 primary languages. GitHub Readme Stats model C plus, Top 78.5 percent. Not official.</desc>
+<rect x="0" y="0" width="560" height="445" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#bb9af7"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#bb9af7" font-weight="700" font-family="ui-monospace, Consolas, monospace">PROFILE STATS / 2026-11-23</text>
+<rect x="24" y="67" width="512" height="150" rx="8" fill="#24283b"/>
+<text x="44" y="107" text-anchor="start" font-size="35" fill="#73daca" font-weight="700">6</text>
+<text x="90" y="107" text-anchor="start" font-size="27" fill="#c0caf5">Owned public non-fork repos</text>
+<text x="44" y="151" text-anchor="start" font-size="35" fill="#7dcfff" font-weight="700">6</text>
+<text x="90" y="151" text-anchor="start" font-size="27" fill="#c0caf5">Stars received</text>
+<text x="44" y="195" text-anchor="start" font-size="35" fill="#bb9af7" font-weight="700">4</text>
+<text x="90" y="195" text-anchor="start" font-size="27" fill="#c0caf5">Primary languages</text>
+<text x="29" y="257" text-anchor="start" font-size="25" fill="#c0caf5">Assembly / HTML / Rust / TypeScript</text>
+<rect x="24" y="278" width="512" height="120" rx="8" fill="#24283b"/>
+<text x="39" y="313" text-anchor="start" font-size="25" fill="#bb9af7" font-weight="700">GitHub Readme Stats model</text>
+<text x="39" y="353" text-anchor="start" font-size="36" fill="#c0caf5" font-weight="700" font-family="ui-monospace, Consolas, monospace">C+ / Top 78.5%</text>
+<text x="39" y="382" text-anchor="start" font-size="24" fill="#a9b1d6">Not an official GitHub rank</text>
+<text x="29" y="428" text-anchor="start" font-size="24" fill="#73daca" font-weight="700">Scope and rank sources  →</text>
+</g>
+</svg>

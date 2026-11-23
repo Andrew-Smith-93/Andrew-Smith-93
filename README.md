@@ -1,75 +1,33 @@
 # Andrew Smith
 
-![Field Notes illustration: window panes, a memory waveform, and a document outline on a navy grid.](assets/field-notes-tokyonight-v1.svg)
+[Full text version and project links](profile-text.md) · [Stats sources](stats/public-engineering.md)
 
-I own [Domillio](https://domillio.org). I'm an independent developer in Mississippi. I build Linux tools, web apps, and games, and I like working on both the machinery underneath and the part people actually touch.
-
-[Selected builds](#selected-builds) · [Release history](#engineering-in-public) · [Profile stats](#profile-stats) · [Experiments](#under-construction) · [andrewsmith.app](https://andrewsmith.app)
+[![Andrew Smith. I own Domillio. Independent developer in Mississippi building Linux tools, web applications, and games. Open my personal site.](assets/tokyonight-cards-v1/andrews-field-notes.svg)](https://andrewsmith.app)
 
 ## Selected builds
 
-### 01 / [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean)
+[![Keep RAM Clean. Rust daemon and CLI for monitoring RAM, swap, tmpfs, and pressure. Cleanup follows configurable thresholds and schedules. On November 23, 2026: 3 stars received and 5 stable releases. Open the repository.](assets/tokyonight-cards-v1/keep-ram-clean.svg)](https://github.com/Andrew-Smith-93/keep-ram-clean)
 
-**Rust · Linux daemon and CLI.** Keep RAM Clean monitors RAM, swap, tmpfs, and memory pressure. Cleanup runs on thresholds and schedules you set.
+[![Domillio. Shopify-focused workflows for tax exemptions, safety documents, and disclosures. The public demos use sample data and are not real approvals or proof of production readiness. Open the demos.](assets/tokyonight-cards-v1/domillio.svg)](https://domillio.org/demos)
 
-[Source and setup](https://github.com/Andrew-Smith-93/keep-ram-clean#readme) · [v2.3.0 release](https://github.com/Andrew-Smith-93/keep-ram-clean/releases/tag/v2.3.0)
+[![Tessera. Keyboard-driven tiling inside KDE Plasma 6 and KWin. Keeps window placement, resizing, and fullscreen behavior predictable. On November 23, 2026: 1 star received and 2 stable releases. Open the repository.](assets/tokyonight-cards-v1/tessera.svg)](https://github.com/Andrew-Smith-93/Tessera)
 
-### 02 / [Domillio](https://domillio.org)
-
-**Shopify-focused document workflows.** I'm working on ways to collect and review tax-exemption certificates, product-safety documents, and disclosures without losing track of what was submitted or reviewed. The public browser demos use sample data; they aren't real merchant approvals or a claim of production readiness.
-
-[Public browser demos](https://domillio.org/demos)
-
-### 03 / [Tessera](https://github.com/Andrew-Smith-93/Tessera)
-
-**KDE Plasma 6 · keyboard-driven window tiling.** Tessera runs inside KWin rather than replacing the desktop. I wanted windows to stay on the intended monitor, preserve a deliberate resize, and stop being driven by the tiler when they enter fullscreen.
-
-[v1.0.2 release](https://github.com/Andrew-Smith-93/Tessera/releases/tag/v1.0.2) · [Installation and architecture](https://github.com/Andrew-Smith-93/Tessera#readme)
-
-<details>
-<summary>See Tessera on two monitors</summary>
-
-[Open the full-size v1.0.2 screenshot](https://github.com/Andrew-Smith-93/Tessera/blob/v1.0.2/docs/screenshots/tessera-multiscreen-live.png)
-
-</details>
-
-### 04 / [Codeward](https://github.com/Andrew-Smith-93/codeward)
-
-**TypeScript · code review tooling.** A collaborative CLI and GitHub Action project exploring how specialized review passes can produce findings people can actually use. The released v2 GitHub Action runs in offline mock mode. Automated findings still need human judgment.
-
-[v2.0.0 release](https://github.com/Andrew-Smith-93/codeward/releases/tag/v2.0.0) · [Offline quickstart](https://github.com/Andrew-Smith-93/codeward#-quickstart)
+[![Codeward. Collaborative TypeScript code-review CLI and GitHub Action. The released v2 Action runs offline in mock mode. On November 23, 2026: 1 star received and 2 stable releases. Open the offline quickstart.](assets/tokyonight-cards-v1/codeward.svg)](https://github.com/Andrew-Smith-93/codeward#-quickstart)
 
 ## Engineering in public
 
-[![Public engineering snapshot, November 23, 2026: Keep RAM Clean has 5 published stable GitHub releases; Tessera and Codeward have 2 each. Tessera has 17 merged pull requests: 12 by Andrew and 5 by Dependabot.](assets/public-engineering-2026-11-23-tokyonight-v1.svg)](stats/public-engineering.md)
-
-| Public repository | Stars received | Stable releases |
-| --- | ---: | ---: |
-| [Keep RAM Clean](https://github.com/Andrew-Smith-93/keep-ram-clean) | 3 | 5 |
-| [Tessera](https://github.com/Andrew-Smith-93/Tessera) | 1 | 2 |
-| [Codeward](https://github.com/Andrew-Smith-93/codeward) | 1 | 2 |
-
-Tessera also has 17 merged pull requests: 12 authored by me and 5 by Dependabot.
-
-[Sources and counting method](stats/public-engineering.md) · [GitHub contribution history](https://github.com/Andrew-Smith-93?tab=overview)
+[![Public repository snapshot, November 23, 2026. Keep RAM Clean: 3 stars received and 5 stable releases. Tessera and Codeward: 1 star received and 2 stable releases each. Tessera has 17 merged PRs: 12 Andrew-authored and 5 Dependabot-authored. Open the stats methodology.](assets/tokyonight-cards-v1/repo-stats.svg)](stats/public-engineering.md#repository-stats)
 
 ## Profile stats
 
-[![Public GitHub profile stats, November 23, 2026: 6 owned public non-fork repositories, 6 stars received on them, and 4 primary languages. GitHub Readme Stats model: C+, Top 78.5%, not an official rank.](assets/profile-stats-2026-11-23-tokyonight-v1.svg)](stats/public-engineering.md#profile-wide-stats)
-
-**6 public non-fork repos · 6 stars received · 4 primary languages** (Assembly, HTML, Rust, and TypeScript). These counts exclude private work and forks. [Scope and source](stats/public-engineering.md#profile-wide-stats).
-
-**C+ · Top 78.5%** in the [GitHub Readme Stats model](stats/public-engineering.md#modeled-rank). It is a third-party estimate, not GitHub’s ranking or a measured percentile of GitHub users.
+[![Profile stats, November 23, 2026. 6 owned public non-fork repos, 6 stars received, and 4 primary languages: Assembly, HTML, Rust, and TypeScript. GitHub Readme Stats model: C+, Top 78.5%. Not an official GitHub rank. Open the source notes.](assets/tokyonight-cards-v1/profile-stats.svg)](stats/public-engineering.md#profile-wide-stats)
 
 ## Under construction
 
-- **Fieldwork, Table, and Outline:** small local browser apps for jobs and estimates, CSV preparation, and writing with revisions.
-- **Bridge:** a private local console for agent activity, messages, and worktree review, with native and x86-64 assembly work in its preview.
-- **Anvil:** a private, pre-release Rust job queue for Linux, backed by SQLite and designed for one machine.
-- **Dies Irae & Lanternbound:** private Godot projects exploring action-roguelike and companion-card mechanics.
+[![Under construction: Fieldwork, Table, and Outline are small browser tools. Bridge is a local activity, messages, and worktree console. Anvil is a single-machine Rust job queue. Dies Irae and Lanternbound explore Godot action and card mechanics. Open the text version.](assets/tokyonight-cards-v1/experiments.svg)](profile-text.md#under-construction)
 
 ## How I build
 
-An original CSV should survive an edit. An export should match what was reviewed. A window should stay on the right monitor. I like software that makes its state understandable, and I rely on tests, review, and hands-on debugging to see whether it does what I meant.
+[![How I build: keep the original CSV, make the export match what was reviewed, and keep the window on the right monitor. Verify with tests, review, and hands-on debugging. Open the text version.](assets/tokyonight-cards-v1/how-i-build.svg)](profile-text.md#how-i-build)
 
-**What I work with:** Rust · TypeScript / JavaScript · Linux / KWin · SQLite · Godot / GDScript · x86-64 assembly · web UX
+[Full text version](profile-text.md) · [GitHub contribution history](https://github.com/Andrew-Smith-93?tab=overview)

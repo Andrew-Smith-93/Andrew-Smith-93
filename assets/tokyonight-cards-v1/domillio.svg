@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="513" viewBox="0 0 560 378" role="img" aria-labelledby="title desc">
+<title id="title">Domillio</title>
+<desc id="desc">I work on tax-exemption certificates, product-safety documents, and disclosures. Public demos show samples, not real approvals or production readiness.</desc>
+<rect x="0" y="0" width="560" height="378" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#7dcfff"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#7dcfff" font-weight="700" font-family="ui-monospace, Consolas, monospace">SELECTED BUILD / 02</text>
+<text x="28" y="96" text-anchor="start" font-size="44" fill="#c0caf5" font-weight="700">Domillio</text>
+<text x="28" y="134" text-anchor="start" font-size="25" fill="#7dcfff" font-weight="700">Shopify document workflows</text>
+<text x="28" y="177" text-anchor="start" font-size="27" fill="#c0caf5">I build workflows for tax exemptions,</text>
+<text x="28" y="211" text-anchor="start" font-size="27" fill="#c0caf5">product safety, and disclosures.</text>
+<text x="28" y="245" text-anchor="start" font-size="27" fill="#c0caf5">Demos use sample data, not real</text>
+<text x="28" y="279" text-anchor="start" font-size="27" fill="#c0caf5">approvals or proof of readiness.</text>
+<path d="M28 321L532 321" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="356" text-anchor="start" font-size="25" fill="#7dcfff" font-weight="700">Open sample browser demos  →</text>
+</g>
+</svg>

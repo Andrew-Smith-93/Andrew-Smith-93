@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="590" viewBox="0 0 560 435" role="img" aria-labelledby="title desc">
+<title id="title">Under construction</title>
+<desc id="desc">Fieldwork, Table, and Outline are small local browser tools. Bridge is a worktree review console. Anvil is a single-machine Rust queue. Dies Irae and Lanternbound are Godot mechanic experiments.</desc>
+<rect x="0" y="0" width="560" height="435" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#7dcfff"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#7dcfff" font-weight="700" font-family="ui-monospace, Consolas, monospace">EXPERIMENTS</text>
+<text x="28" y="95" text-anchor="start" font-size="42" fill="#c0caf5" font-weight="700">Under construction</text>
+<text x="28" y="139" text-anchor="start" font-size="28" fill="#7dcfff" font-weight="700">Fieldwork, Table, and Outline</text>
+<text x="28" y="172" text-anchor="start" font-size="25" fill="#c0caf5">Jobs / CSV prep / writing and revisions</text>
+<text x="28" y="214" text-anchor="start" font-size="28" fill="#bb9af7" font-weight="700">Bridge</text>
+<text x="28" y="247" text-anchor="start" font-size="25" fill="#c0caf5">Local activity and worktree review</text>
+<text x="28" y="289" text-anchor="start" font-size="28" fill="#7dcfff" font-weight="700">Anvil</text>
+<text x="28" y="322" text-anchor="start" font-size="25" fill="#c0caf5">Single-machine Rust job queue</text>
+<text x="28" y="364" text-anchor="start" font-size="28" fill="#bb9af7" font-weight="700">Dies Irae &amp; Lanternbound</text>
+<text x="28" y="397" text-anchor="start" font-size="25" fill="#c0caf5">Godot action and card mechanics</text>
+<text x="530" y="418" text-anchor="end" font-size="24" fill="#73daca" font-weight="700">Text version  →</text>
+</g>
+</svg>

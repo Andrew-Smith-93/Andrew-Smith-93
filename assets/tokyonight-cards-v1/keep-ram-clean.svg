@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="537" viewBox="0 0 560 396" role="img" aria-labelledby="title desc">
+<title id="title">Keep RAM Clean</title>
+<desc id="desc">Monitors RAM, swap, tmpfs and pressure. Configurable cleanup. Three stars received and five stable releases as of 2026-11-23.</desc>
+<rect x="0" y="0" width="560" height="396" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#73daca"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#73daca" font-weight="700" font-family="ui-monospace, Consolas, monospace">SELECTED BUILD / 01</text>
+<text x="28" y="96" text-anchor="start" font-size="44" fill="#c0caf5" font-weight="700">Keep RAM Clean</text>
+<text x="28" y="134" text-anchor="start" font-size="25" fill="#73daca" font-weight="700">Rust / Linux daemon + CLI</text>
+<text x="28" y="177" text-anchor="start" font-size="27" fill="#c0caf5">Monitors RAM, swap, tmpfs and</text>
+<text x="28" y="211" text-anchor="start" font-size="27" fill="#c0caf5">memory pressure. Cleanup follows</text>
+<text x="28" y="245" text-anchor="start" font-size="27" fill="#c0caf5">thresholds and schedules you set.</text>
+<rect x="24" y="273" width="512" height="45" rx="8" fill="#24283b"/>
+<text x="38" y="303" text-anchor="start" font-size="24" fill="#c0caf5" font-weight="700" font-family="ui-monospace, Consolas, monospace">3 stars / 5 stable releases</text>
+<path d="M28 339L532 339" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="374" text-anchor="start" font-size="25" fill="#73daca" font-weight="700">Repository and releases  →</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="537" viewBox="0 0 560 396" role="img" aria-labelledby="title desc">
+<title id="title">Codeward</title>
+<desc id="desc">A collaborative CLI and GitHub Action. The v2 Action runs in offline mock mode. One star and two stable releases as of 2026-11-23.</desc>
+<rect x="0" y="0" width="560" height="396" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#bb9af7"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#bb9af7" font-weight="700" font-family="ui-monospace, Consolas, monospace">SELECTED BUILD / 04</text>
+<text x="28" y="96" text-anchor="start" font-size="44" fill="#c0caf5" font-weight="700">Codeward</text>
+<text x="28" y="134" text-anchor="start" font-size="25" fill="#bb9af7" font-weight="700">TypeScript / code review tooling</text>
+<text x="28" y="177" text-anchor="start" font-size="27" fill="#c0caf5">A collaborative CLI and Action</text>
+<text x="28" y="211" text-anchor="start" font-size="27" fill="#c0caf5">for reviewing diffs. The v2 GitHub</text>
+<text x="28" y="245" text-anchor="start" font-size="27" fill="#c0caf5">Action runs offline in mock mode.</text>
+<rect x="24" y="273" width="512" height="45" rx="8" fill="#24283b"/>
+<text x="38" y="303" text-anchor="start" font-size="24" fill="#c0caf5" font-weight="700" font-family="ui-monospace, Consolas, monospace">1 star / 2 stable releases</text>
+<path d="M28 339L532 339" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="374" text-anchor="start" font-size="25" fill="#bb9af7" font-weight="700">Open offline quickstart  →</text>
+</g>
+</svg>

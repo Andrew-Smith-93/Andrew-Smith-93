@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="423" viewBox="0 0 560 312" role="img" aria-labelledby="title desc">
+<title id="title">Andrew Smith</title>
+<desc id="desc">I own Domillio. Independent developer in Mississippi building Linux tools, web apps, and games.</desc>
+<rect x="0" y="0" width="560" height="312" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#7dcfff"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#7dcfff" font-weight="700" font-family="ui-monospace, Consolas, monospace">FIELD NOTES / ANDREW SMITH</text>
+<rect x="24" y="64" width="512" height="82" rx="8" fill="#24283b"/>
+<text x="39" y="121" text-anchor="start" font-size="45" fill="#c0caf5" font-weight="700">I own Domillio.</text>
+<text x="28" y="187" text-anchor="start" font-size="27" fill="#c0caf5">Independent developer in Mississippi.</text>
+<text x="28" y="222" text-anchor="start" font-size="27" fill="#c0caf5">Linux tools, web apps, and games.</text>
+<path d="M28 247L532 247" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="284" text-anchor="start" font-size="25" fill="#7dcfff" font-weight="700">andrewsmith.app  →</text>
+</g>
+</svg>

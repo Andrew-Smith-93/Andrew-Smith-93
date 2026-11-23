@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="537" viewBox="0 0 560 396" role="img" aria-labelledby="title desc">
+<title id="title">Public engineering</title>
+<desc id="desc">Public snapshot on 2026-11-23: Keep RAM Clean has 3 stars and 5 stable releases; Tessera and Codeward each have 1 star and 2 releases. Tessera merged 17 pull requests: 12 by Andrew, 5 by Dependabot.</desc>
+<rect x="0" y="0" width="560" height="396" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#73daca"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#73daca" font-weight="700" font-family="ui-monospace, Consolas, monospace">ENGINEERING / 2026-11-23</text>
+<text x="28" y="94" text-anchor="start" font-size="43" fill="#c0caf5" font-weight="700">Public repo stats</text>
+<text x="28" y="139" text-anchor="start" font-size="24" fill="#a9b1d6" font-weight="700">Repository</text>
+<text x="387" y="139" text-anchor="end" font-size="24" fill="#a9b1d6" font-weight="700">Stars</text>
+<text x="530" y="139" text-anchor="end" font-size="24" fill="#a9b1d6" font-weight="700">Releases</text>
+<rect x="23" y="150" width="514" height="49" rx="8" fill="#24283b"/>
+<text x="34" y="183" text-anchor="start" font-size="28" fill="#73daca" font-weight="700">Keep RAM Clean</text>
+<text x="387" y="183" text-anchor="end" font-size="29" fill="#73daca" font-weight="700">3</text>
+<text x="530" y="183" text-anchor="end" font-size="29" fill="#73daca" font-weight="700">5</text>
+<text x="34" y="228" text-anchor="start" font-size="27" fill="#c0caf5">Tessera</text>
+<text x="387" y="228" text-anchor="end" font-size="27" fill="#c0caf5">1</text>
+<text x="530" y="228" text-anchor="end" font-size="27" fill="#c0caf5">2</text>
+<text x="34" y="270" text-anchor="start" font-size="27" fill="#c0caf5">Codeward</text>
+<text x="387" y="270" text-anchor="end" font-size="27" fill="#c0caf5">1</text>
+<text x="530" y="270" text-anchor="end" font-size="27" fill="#c0caf5">2</text>
+<path d="M28 287L532 287" stroke="#3b4261" stroke-width="2"/>
+<text x="28" y="321" text-anchor="start" font-size="25" fill="#c0caf5" font-weight="700">Tessera: 17 merged PRs</text>
+<text x="28" y="353" text-anchor="start" font-size="24" fill="#a9b1d6">12 by me / 5 by Dependabot</text>
+<text x="532" y="378" text-anchor="end" font-size="24" fill="#73daca" font-weight="700">Stats sources  →</text>
+</g>
+</svg>

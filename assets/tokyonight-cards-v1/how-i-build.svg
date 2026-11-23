@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="474" viewBox="0 0 560 349" role="img" aria-labelledby="title desc">
+<title id="title">How I build</title>
+<desc id="desc">Keep the original CSV. Make the export match what was reviewed. Keep the window on the right monitor. Validate with tests, review, and hands-on debugging.</desc>
+<rect x="0" y="0" width="560" height="349" rx="15" fill="#1a1b26"/>
+<rect x="21" y="22" width="5" height="26" rx="2" fill="#73daca"/>
+<g font-family="system-ui, sans-serif">
+<text x="37" y="44" text-anchor="start" font-size="24" fill="#73daca" font-weight="700" font-family="ui-monospace, Consolas, monospace">WORKING NOTES</text>
+<text x="28" y="95" text-anchor="start" font-size="44" fill="#c0caf5" font-weight="700">How I build</text>
+<text x="28" y="145" text-anchor="start" font-size="28" fill="#c0caf5">Keep the original CSV.</text>
+<text x="28" y="181" text-anchor="start" font-size="28" fill="#c0caf5">Match exports to what was reviewed.</text>
+<text x="28" y="217" text-anchor="start" font-size="28" fill="#c0caf5">Keep the window on the right monitor.</text>
+<rect x="23" y="236" width="514" height="65" rx="8" fill="#24283b"/>
+<text x="38" y="276" text-anchor="start" font-size="26" fill="#73daca" font-weight="700">Test, review, and debug hands-on.</text>
+<text x="28" y="329" text-anchor="start" font-size="24" fill="#7dcfff" font-weight="700">Text version  →</text>
+</g>
+</svg>
