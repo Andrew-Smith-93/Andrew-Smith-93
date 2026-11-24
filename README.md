@@ -1,6 +1,6 @@
 **Andrew Smith**
 
-Linux tools and desktop software · [Domillio](https://domillio.org) · [Full text version](profile-text.md)
+Linux tools and desktop software · [Domillio](https://domillio.org) · [Full text version](profile-text.md) · [Sponsor](https://github.com/sponsors/Andrew-Smith-93?o=esb)
 
 [![Keep RAM Clean: Rust daemon and CLI for Linux RAM, swap, tmpfs, and memory pressure. Open the repository.](assets/tokyonight-compact-v5/keep-ram-clean.svg)](https://github.com/Andrew-Smith-93/keep-ram-clean) [![Tessera: keyboard tiling for KDE Plasma 6 that runs inside KWin. Open the repository.](assets/tokyonight-compact-v5/tessera.svg)](https://github.com/Andrew-Smith-93/Tessera)
 
